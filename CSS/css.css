@@ -1,0 +1,12 @@
+div{
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: lighter;
+}
+body{
+    padding: 50px;
+    width: 500px;
+    text-align: justify;
+    font-size: medium;
+}
